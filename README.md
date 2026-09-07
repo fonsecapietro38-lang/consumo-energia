@@ -37,8 +37,8 @@ Informe os dados solicitados.
 Confira o consumo e o custo estimados.
 📂 Estrutura do projeto
 consumo-energia/
-├── app.py
-└── README.md
+ app.py
+  README.md
 ⚡ Exemplo
 Aparelho: Geladeira
 Consumo estimado: 45.00 kWh/mês
